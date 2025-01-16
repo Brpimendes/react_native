@@ -7,7 +7,7 @@ Os projetos são desenvolvidos pela trilha de cursos da [Rocketseat](https://app
 A trilha tem o seguinte escopo:
 
 - [x] 01 - Fundamentos
-- [ ] 02 - Interfaces, Navegação e Armazenamento local
+- [x] 02 - Interfaces, Navegação e Armazenamento local
 - [ ] 03 - Componentes e API
 - [ ] 04 - Push Notifications e Deep Linking
 - [ ] 05 - Melhorando a experiência do usuário
