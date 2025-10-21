@@ -8,8 +8,8 @@ A trilha tem o seguinte escopo:
 
 - [x] 01 - Fundamentos
 - [x] 02 - Interfaces, Navegação e Armazenamento local
-- [ ] 03 - Componentes e API
-- [ ] 04 - Push Notifications e Deep Linking
+- [x] 03 - Componentes e API
+- [x] 04 - Push Notifications e Deep Linking
 - [ ] 05 - Melhorando a experiência do usuário
 - [ ] 06 - Offline First e Geolocalização
 - [ ] 07 - Teste Automatizados
